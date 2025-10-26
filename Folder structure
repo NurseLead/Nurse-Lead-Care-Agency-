@@ -1,0 +1,18 @@
+my-healthcare-website/
+│
+├── index.html
+├── about.html
+├── services.html
+├── careers.html
+├── contact.html
+│
+├── /css
+│   └── style.css
+│
+└── /images
+    ├── hero.jpg
+    ├── about.jpg
+    ├── service1.jpg
+    ├── service2.jpg
+    ├── careers.jpg
+    └── contact.jpg
