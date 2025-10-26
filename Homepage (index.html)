@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thornbury Healthcare Services</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Thornbury Healthcare Services</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html" class="active">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="careers.html">Careers</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <img src="images/hero.jpg" alt="Healthcare professionals">
+    <div class="hero-text">
+      <h2>Compassionate Care, Professional Excellence</h2>
+      <p>Providing trusted healthcare staffing and community support services nationwide.</p>
+      <a href="services.html" class="btn">Our Services</a>
+    </div>
+  </section>
+
+  <section class="intro">
+    <div class="container">
+      <h3>Trusted by Healthcare Professionals Across the Country</h3>
+      <p>We deliver high-quality healthcare staffing and support services, ensuring every individual receives the best possible care in their community.</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>© 2025 Thornbury Healthcare Services | All Rights Reserved</p>
+    </div>
+  </footer>
+</body>
+</html>
